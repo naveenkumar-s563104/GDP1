@@ -1,9 +1,9 @@
-# Attendance Authentication using QR Code Development Project
+# **_Attendance Authentication using QR Code Development Project_**
 # GDP1
 
-# Team mates: M Kartikeya Datta
-#             Naveen Kumar Kottidi
-#             Harsha Sai Teja Nukala
-#             Durga Sambhavi Mamillapalli
-#             Gomathi Nagiri
-#             Agraja Gottipati
+**Teammates:** *M Kartikeya Datta*
+               *Naveen Kumar Kottidi*
+               *Harsha Sai Teja Nukala*
+               *Durga Sambhavi Mamillapalli*
+               *Gomathi Nagiri*
+               *Agraja Gottipati*
