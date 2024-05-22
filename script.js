@@ -79,7 +79,7 @@ document
           password === "1234567"
         ) {
           window.location.href = "instructor_dashboard.html";
-        } else if (username === "student" && password === "123456") {
+        } else if (username === "student@nwmissouri.edu" && password === "123456") {
           window.location.href = "student_dashboard.html";
         } else {
           alert("Invalid username or password.");
